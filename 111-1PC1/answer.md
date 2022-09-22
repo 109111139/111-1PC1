@@ -25,7 +25,7 @@ protected void Page_Load(object sender, EventArgs e)
         }
 ```
 
-若要於內文中標示部分.aspx檔，則使用以下標籤` ```html 程式碼 ``` `，
+
 下段程式碼則為使用後結果：無
 
 ```html
